@@ -15,4 +15,4 @@ http://localhost:8080/
 
 A quick test over the PostMan Rest Client:
 
-http://localhost:8080/url=http://www.rescale.com/&depth=1
+http://localhost:8080/?url=https://rescale.com
